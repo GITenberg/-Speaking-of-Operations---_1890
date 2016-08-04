@@ -1,0 +1,28 @@
+_repo: -Speaking-of-Operations---_1890
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cobb, Irvin S. (Irvin Shrewsbury)
+    alias: Cobb, Irvin Shrewsbury
+    birthdate: 1876
+    deathdate: 1944
+    gutenberg_agent_id: '559'
+    url: http://www.gutenberg.org/2009/agents/559
+    wikipedia: http://en.wikipedia.org/wiki/Irvin_S._Cobb
+description: Article from The Saturday Evening Post, Nov. 6, 1915, vol. 188, no. 19.
+gutenberg_issued: '1999-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1890'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Medicine -- Humor'
+- !lcsh 'Operations, Surgical'
+- !lcc 'PS'
+- !lcsh 'Medicine -- Anecdotes'
+- GITenberg
+title: '"Speaking of Operations--"'
+url: http://www.gutenberg.org/ebooks/1890
